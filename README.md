@@ -9,8 +9,6 @@
 - [Recording Checklist](Protocols/Recording.md)
 - [Imaging a cell](Protocols/imaging.md)
 
-## Data Analysis
-- [Ephys data curation and preliminary analysis](Protocols/Ephys_Data.md)
 ## General procedures:
 - [Immunohistochemistry](Protocols/IHC.md)
 
