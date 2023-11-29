@@ -11,10 +11,19 @@
     1. In B, after setting C to zero, focus C to the coordinate you previously registered. 
 7. You are ready to record now. 
 
-## Tearing the inner limiting membrane
-8. Put the electrode in, set pipette offset, lock in positive pressure (~2)
+## Electrode in
+8. Put the electrode in, and  lock in positive pressure (~1.3-1.4)
+9. Set pippete offset (you should do this everytime a new pipette enters the solution). 
 
-9. Gently tear the inner limiting membrane. 
+    ![Auto offset](../images/multiclamp.png)
+10. Press home in. Move forward in X, then in Y and find the electrode. 
+
+## Tearing the inner limiting membrane
+Once you have identified a flat area susceptible to recording, you need peel off glial cells end feet (*inner limiting membrane*) with the pipette **without** hurting the ganglion cells. 
+
+- <img src="..\images\membrane_tearing.png" alt="Image Alt Text" width="130" height="225">
+
+An explanatory video can be found [here](https://www.youtube.com/watch?v=Epfpnh1jxaU) 
 
 ## Cell Attached Recording 
 10. In Symphony, play lightstep. 

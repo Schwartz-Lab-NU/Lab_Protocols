@@ -11,7 +11,7 @@
 
 ## General procedures:
 - [Immunohistochemistry](Protocols/IHC.md)
-
+- [Mounting the whole retina](Protocols/mounting.md)
 ## Solutions (and some problems)
 - [Allicuots](Protocols/Yoda1_allicuotes.md)
 - [100% Normal Donkey Serum](Protocols/NDS.md)
