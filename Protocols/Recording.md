@@ -18,7 +18,7 @@ A detailed explanation on how to make the membrane tearing for CA, and seal and 
 8. Put the electrode in, and  lock in positive pressure (~1.3-1.4)
 9. Set pippete offset (you should do this everytime a new pipette enters the solution). 
 
-    <img src="..\images\multiclamp.png">
+- <img src="..\images\multiclamp.png">
 10. Press home in. Move forward in X, then in Y and find the electrode. 
 
 ## Tearing the inner limiting membrane
@@ -41,7 +41,7 @@ A detailed explanation on how to make the membrane tearing for CA, and seal and 
 14. In symphony, run the **Seal and leak** protocol. It should start running the *seal* step. 
 The osciloscope should looke like this (but with a single current step, will change the image later.)
 - <img src="..\images\scope.png" width="260" height="200"> 
-15. Approach to your cell and make the seal, change to leak. 
+15. Approach to your cell and make the seal, change to **leak**. 
 16. Break the membrane. 
 
 ### In multiclamp run the following (color coded with fruitmojis)
@@ -52,5 +52,6 @@ The osciloscope should looke like this (but with a single current step, will cha
     - Should be low (30-40 mOhms). A high resistance icreases the series resistance compensation error and decrease thes time resolution of current changes . 
 - <img src="..\images\Multiclamp2.png"> 
 
+20. In symphony, run multipulse (or your desired protocol. )
 
 
