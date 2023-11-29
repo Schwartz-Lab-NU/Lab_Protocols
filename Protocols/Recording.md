@@ -18,7 +18,7 @@ A detailed explanation on how to make the membrane tearing for CA, and seal and 
 8. Put the electrode in, and  lock in positive pressure (~1.3-1.4)
 9. Set pippete offset (you should do this everytime a new pipette enters the solution). 
 
-- <img src="..\images\multiclamp.png">
+-  <img src="..\images\Multiclamp.png">
 10. Press home in. Move forward in X, then in Y and find the electrode. 
 
 ## Tearing the inner limiting membrane
@@ -32,7 +32,7 @@ A detailed explanation on how to make the membrane tearing for CA, and seal and 
 
 11. Once you have identified a cell, play play lightstep in symphony. 
 12. Approach the electrode to the cell while constantly giving short pulses of possitve pressure. 
-13. Once in the cell, 
+13. Once in the cell, apply constant negative pressures until you see spike trains. Apply a little more to improve the resolution of the spikes **without** breaking in the cell. 
 
 ## Whole cell patch clamp (work in progress)
  
