@@ -6,7 +6,7 @@
 ## Rig Related
 - [Rig Set Up](Protocols/Rig_Set_up.md)
 - [Rig Cleaning](Protocols/Rig_Clean_Up.md)
-- [Recording Checklist](Protocols/Recording.md)
+- [Recording a cell](Protocols/Recording.md)
 - [Imaging a cell](Protocols/imaging.md)
 
 ## General procedures:
