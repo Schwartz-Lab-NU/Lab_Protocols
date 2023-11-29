@@ -37,21 +37,30 @@ A detailed explanation on how to make the membrane tearing for CA, and seal and 
 ## Whole cell patch clamp (work in progress)
  
 
-
+### **Current clamp**
 14. In symphony, run the **Seal and leak** protocol. It should start running the *seal* step. 
 The osciloscope should looke like this (but with a single current step, will change the image later.)
 - <img src="..\images\scope.png" width="260" height="200"> 
 15. Approach to your cell and make the seal, change to **leak**. 
-16. Break the membrane. 
 
-### In multiclamp run the following (color coded with fruitmojis)
+### In multiclamp run the following commands (color coded with fruitmojis)
+In Voltage Clamp (VC) mode:
 
-17. Change from VC to I=0 and then to IC (&#127815;) 
-18. Press auto in Cp fast. (&#x1F34F;)
-19. Check your access resistance (	&#129389;).
-    - Should be low (30-40 mOhms). A high resistance icreases the series resistance compensation error and decrease thes time resolution of current changes . 
+16. Compensate the capacitive currents: Press auto in Cp fast. (&#x1F34F;)
+18. Break the membrane with a gentle fast negative pressure pulse. 
+
+18. Check your access resistance (	&#129389;).
+    - Should be low (20-40 mOhms). A high resistance icreases the series resistance compensation error and decreases the time resolution of current changes.
+
+#### If doing a **current clamp recording** (the most common type of recording we do):
+ 
+ 19. Change from VC to I=0 and then to IC (Current Clamp) (&#127815;)
+ 20. In symphony, run multipulse (or your desired protocol. ) 
+
+ **Note:** different instructions are needed for voltage clamp recordings. 
+
 - <img src="..\images\Multiclamp2.png"> 
 
-20. In symphony, run multipulse (or your desired protocol. )
+
 
 
