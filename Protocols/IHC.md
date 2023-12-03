@@ -27,20 +27,23 @@ Over night at room temperature with:
 - 3% BSA + 0.5% triton X
 
 
-## 3. Primary antibody
+## 3. Primary antibody staining
 The antibodies are in the white freezer. Write down from which animal is the primary and make sure there is a compatible secondary. 
 
-- In an eppendorf tube, pour 1.5mL of blocking solution and 5 uL of the allicuoted primary antibody (1:500) --> **antibody + blocking buffer solution**
+- In an eppendorf tube, pour 1.0mL of blocking solution and 5 uL of the allicuoted primary antibody (1:500) --> **antibody + blocking buffer solution**
 - Pipette the primary antibody in the retina. And incubate for:
     - 48 hours at room temperature
     - 5 days at 4 degrees C. 
 
 - Wash 3 times with PBS (20min apart) at room temperature.
 
-## 4. Secondary antibody 
+## 4. Secondary antibody staining
 **Use the black eppendorf**
+
+**Note**: the secondaries are not allicuoted. Take the selected AB from the freezer. Extract 5 uL and add 1mL of BSA to have a 1:500 (5%) dilution. 
+
 - anti-*PrimaryAB (i.e Goat)*- *desired fluorophore* diluted 1:500 in blocking solution. 
-- Add DAPI with secondaries if you want to use it 1:500. 
+- Add DAPI with secondaries if you want to use it (1:500). 
 - Incubate the secondary antibody for **24h** at room temperature in blocking buffer. 
 - Wash 3 times with PBS (20min apart) at room temperature. 
 - Mount with Fluoromont and proceed to imaging. 
