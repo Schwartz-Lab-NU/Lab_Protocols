@@ -30,9 +30,12 @@ A detailed explanation on how to make the membrane tearing for CA, and seal and 
 
 ## Cell Attached Recording 
 
-11. Once you have identified a cell, play play lightstep in symphony. 
+11. Once you have identified a cell, play play lightstep in symphony.
+    - Press `Ctrl P` to load protocol presets. Check that R* intensity is reasonable (~200), then you can play the light step. 
+    - This needs to be done the first time you are presenting a stimuli to the retina. Afterwards, the parameters are saved. 
 12. Approach the electrode to the cell while constantly giving short pulses of possitve pressure. 
 13. Once in the cell, apply constant negative pressures until you see spike trains. Apply a little more to improve the resolution of the spikes **without** breaking in the cell. 
+14. If you are sucessfully getting spikes, play the `receptive field 1d` protocol to center your stimuli.
 
 ## Whole cell patch clamp (work in progress)
  
@@ -44,7 +47,7 @@ The osciloscope should looke like this (but with a single current step, will cha
 15. Approach to your cell and make the seal, change to **leak**. 
 
 ### In multiclamp run the following commands (color coded with fruitmojis)
-In Voltage Clamp (VC) mode:
+In **Voltage Clamp (VC)** mode:
 
 16. Compensate the capacitive currents: Press auto in Cp fast. (&#x1F34F;)
 18. Break the membrane with a gentle fast negative pressure pulse. 
@@ -54,7 +57,7 @@ In Voltage Clamp (VC) mode:
 
 #### If doing a **current clamp recording** (the most common type of recording we do):
  
- 19. Change from VC to I=0 and then to IC (Current Clamp) (&#127815;)
+ 19. Change from VC to I=0 and then to **IC** (Current Clamp) (&#127815;)
  20. In symphony, run multipulse (or your desired protocol. ) 
 
  **Note:** different instructions are needed for voltage clamp recordings. 

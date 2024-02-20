@@ -3,11 +3,12 @@
 
  Please feel free to give me comments, suggest editions or add to the protocols :smile:. 
 
-## Rig Related
+## Rig/Ephys Related
 - [Rig Set Up](Protocols/Rig_Set_up.md)
 - [Rig Cleaning](Protocols/Rig_Clean_Up.md)
 - [Recording a cell](Protocols/Recording.md)
 - [Imaging a cell](Protocols/imaging.md)
+- [Perforated patch](Protocols/perforated.md)
 
 ## General procedures:
 - [Immunohistochemistry](Protocols/IHC.md)
