@@ -7,10 +7,15 @@
 - [Rig Set Up](Protocols/Rig_Set_up.md)
 - [Rig Cleaning](Protocols/Rig_Clean_Up.md)
 - [Recording a cell](Protocols/Recording.md)
-- [Imaging a cell](Protocols/imaging.md)
+
 - [Perforated patch](Protocols/perforated.md)
 
+## Imaging related 
+- [Imaging a cell](Protocols/imaging.md)
+- [Tracing a cell](Protocols/tracing.md)
+
 ## General procedures:
+
 - [Immunohistochemistry](Protocols/IHC.md)
 - [Mounting the whole retina](Protocols/mounting.md)
 ## Solutions (and some problems)
