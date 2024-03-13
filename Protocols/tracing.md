@@ -1,8 +1,12 @@
 # Simple Neurite Tracing Tutorial
 Written by Trung 07/23
+Agniva also made a guide with pictures and explanations. It needs some edits but can be found [here](../Protocols/Full_tracing_guide.pdf)
 
 **Requirement**
-SNT (simple neurite tracing) in fiji
+
+- SNT (simple neurite tracing) in fiji
+- DeInterleave
+- Pairwise Stitching
 
 ## Steps
 ### Stiching
