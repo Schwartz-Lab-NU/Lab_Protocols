@@ -19,7 +19,7 @@ Turn on the monitors if they aren’t on automatically.
     <img src="../images/perfussion.png" width="300" height="230"> 
 - Ames 2L bottle:
     - Take out 250cc for dissection bottle.
-    - Set up lines as shown in the figure (run the outflow into the bath for 2-3min)
+    - Set up lines as shown in the figure.
 
     <img src="../images/Ames.png"  width="200" height="230"> 
 - Running the perfussion:
@@ -27,7 +27,7 @@ Turn on the monitors if they aren’t on automatically.
     - **Before turning on the perfussion**. Check that the in and outflow lines are correctly placed in the dish and that backup vaccum is on. 
     - Turn on the perfussion
         - Let the outflow run in the bath for 2-3min and then put it back in the Ames bottle. 
-    - Turn on dish heater
+    - Turn on oxygen tank (regulator should be lower than 20 psi to optimize gas duration)
 
 
 ## 2. Microscope
