@@ -6,6 +6,8 @@
 
 ## 0. Turn on the rig
 Begin with turning on the four power strips. 
+
+- Also turn ON the stage computer(blue drawing)
 Turn on the monitors if they aren’t on automatically.
 
 <img src="../images/buttons.png"> 
@@ -34,20 +36,25 @@ Turn on the monitors if they aren’t on automatically.
 - Open lin lab
 - Turn on lamp
 - Open multiclamp and symphony
-- Focus at thebottom of the dish at 10x, then at 60x. 
+- Focus at the bottom of the dish at 10x, then at 60x. 
     - Set Z at 0 
 - Focus condenser
     - Turn the knob in the lower end of the scope until you see the condenser aperture. 
     - Switch from objective to condenser
     - Focus in **Z** and Set **C** at 0 
+    - If the condenser aperture it's not clear, it usually means there is dirt in the condenser objective or in the dish. Clean them with rice paper and lenses cleaner. 
 - Allignment cross: 
 
-    Focused at the bottom of the dish!
+    **Focused at the bottom of the dish!**
     - In symphony, open the Allignment cross stimuli
     - Turn off lamp
-    - Change filter (NDF) to 0 or 1, if needed
+    - Change filter (NDF) to 0 or 1, if needed (usually needed in rig A)
         
-             *In rig B:* allignment cross is of around -40 to -50 uM in the condenser. If you focus it there, it is going to look sharper. 
+             *In rig B:* allignment cross is of around -40 to -50 uM in the condenser. If you focus it around there, it is going to look sharper. 
+
+    - Turn condenser knobs to center the cross in the center of the screen. 
+    - During this right saves you time when centering the stimuli while recording a cell. 
+
 ## 3. Electrode 
 - Chlorinate the electrode:
     - Unscrew the electrode holder
@@ -57,24 +64,28 @@ Turn on the monitors if they aren’t on automatically.
     - Turn on the pulse generator. 
     - Dip the tip of both wires in the 3M sodium chloride solution for  about 15 seconds or until the wire tip is sufficiently black
     - Do not let the wires touch while in the solution.
-
+- Put the reference electrode in. 
+    
 - Base position: 
     - Set 10x objective at 7000 uM
     - Put the electrode in and find it.
     - Set electrode coordinates to 0
-    - Swing out the electrode
-    - Change the objective to 60x and go up to 7000 uM
+    - Swing out the electrode and check that it swings in and out without breaking. 
+    - Bring the electrode and objective down until the electrode touches the solution. 
+    - Change the objective to 60x. 
 
-            In rig A, the difference between the 10x and 60 objective is around 1200 uM (i.e 3000 uM in 60x will take you to 4200 in 10x), in rig B it is around 2000 uM 
-   - Put the electrode in again and focus it. Set electrode coordinates to 0 again. 
-    - Go to 3000 on Z and focus the electrode. Set that as **home in**. Turn into *approach mode* and go to positive in **Z**. Set  that position as **home out**. Make sure that the electrode can safely swing in and out. 
+            In rig A, the difference between the 10x and 60 objective is around 1200 uM (i.e 3000 uM in 60x will take you to 4200 in 10x), in rig B it is around 1500 uM 
+    - Go to 3000 on Z and focus the electrode. Set that as **home in**. Turn into *approach mode* and go to positive coordinates in the **Z** axis. Set  that position as **home out**. Make sure that the electrode can safely swing in and out. 
 
 
 ## 4. Multiclamp
 - Reset default
 - Standard configuration
 - Check system noise: Should be less than **10**.
+- Check electrode resistances
+    - p50s: 3.5 mOhms
+    - p52s: 9.0 mOhms
+    - p53s: 13.0 mOhms
 
-
-### **Caution:** Before dissecting, always check the perfussion. It's always the most common and fatal source of errors. 
+### **Caution:** Before dissecting, always check the perfussion and that the gas is running. It's always the most common and fatal source of errors. 
 
