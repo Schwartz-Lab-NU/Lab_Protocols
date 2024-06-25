@@ -16,9 +16,11 @@
 
 ## General procedures:
 
+- [Dehydrating tissue](Protocols/dehydration.md)
 - [Immunohistochemistry](Protocols/IHC.md)
 - [Mounting the whole retina](Protocols/mounting.md)
 ## Solutions (and some problems)
+- [K Aspartate internal solutio](Protocols/k_asp.md)
 - [Allicuots](Protocols/Yoda1_allicuotes.md)
 - [100% Normal Donkey Serum](Protocols/NDS.md)
 
