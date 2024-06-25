@@ -2,7 +2,7 @@
 ### The purpose of these instructions is to be a fast checklist to set up the rig before dissection. 
 
 - Raph made a **fantastic and detailed** guide that can be found and downloaded [here](../images/RigSetUp.pdf)  for a more comprehensive explanation of each step.
-
+- Preena's (beautifully handwritten) notes on how to conduct an Amacrine Cell recording experiment can be found here [here](../images/Running_an_experiment.pdf). They cover rig set up, Ames prep, recording tips and Scanimage and imaging setup.  
 
 ## 0. Turn on the rig
 Begin with turning on the four power strips. 
